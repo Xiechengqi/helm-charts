@@ -17,3 +17,7 @@
 | [argocd](https://github.com/argoproj/argo-helm) | https://github.com/argoproj/argo-helm/blob/gh-pages/index.yaml |
 | [calico](https://github.com/projectcalico/calico) | https://docs.tigera.io/calico/charts/index.yaml |
 | [cilium](https://github.com/cilium/charts) | https://github.com/cilium/charts/blob/master/index.yaml |
+| [gpu-operator](https://github.com/NVIDIA/gpu-operator) | https://github.com/NVIDIA/gpu-operator/blob/gh-pages/stable/index.yaml |
+| [nvidia-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) | https://github.com/NVIDIA/k8s-device-plugin/blob/gh-pages/stable/index.yaml |
+| [HAMi](https://github.com/Project-HAMi/HAMi) | https://github.com/Project-HAMi/HAMi/blob/gh-pages/index.yaml |
+| [volcano](https://github.com/volcano-sh/helm-charts) | https://github.com/volcano-sh/helm-charts/blob/main/index.yaml |
