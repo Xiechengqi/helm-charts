@@ -21,3 +21,5 @@
 | [nvidia-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) | https://github.com/NVIDIA/k8s-device-plugin/blob/gh-pages/stable/index.yaml |
 | [HAMi](https://github.com/Project-HAMi/HAMi) | https://github.com/Project-HAMi/HAMi/blob/gh-pages/index.yaml |
 | [volcano](https://github.com/volcano-sh/helm-charts) | https://github.com/volcano-sh/helm-charts/blob/main/index.yaml |
+| [dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) | https://github.com/NVIDIA/dcgm-exporter/blob/gh-pages/helm-charts/index.yaml|
+| [ingress-nginx](https://github.com/kubernetes/ingress-nginx) | https://github.com/kubernetes/ingress-nginx/blob/gh-pages/index.yaml |
